@@ -8,4 +8,4 @@
 
 ## Github Stats  
 <!-- GitHub数据统计 -->
-<img src="https://github-readme-stats.vercel.app/api?username=linkxzhou&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=linkxzhou&show_icons=true&count_private=true&theme=vue-dark" />

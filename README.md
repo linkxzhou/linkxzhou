@@ -12,5 +12,7 @@
 
 ## Github Stats  
 <!-- GitHub数据统计 -->
-![](./tools/generated/overview.svg#gh-dark-mode-only)
-![](./tools/generated/languages.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="./tools/generated/overview.svg" width="48%" />
+  <img src="./tools/generated/languages.svg" width="48%" />
+</p>

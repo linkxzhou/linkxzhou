@@ -12,9 +12,5 @@
 
 ## Github Stats  
 <!-- GitHub数据统计 -->
-<div align="center">
-    <a href="https://github.com/linkxzhou/linkxzhou#gh-dark-mode-only">
-        <img src="https://github.com/linkxzhou/linkxzhou/blob/main/tools/generated/overview.svg#gh-dark-mode-only" />
-        <img src="https://github.com/linkxzhou/linkxzhou/blob/main/tools/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-</div>
+![](./tools/generated/overview.svg#gh-dark-mode-only)
+![](./tools/generated/languages.svg#gh-dark-mode-only)

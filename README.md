@@ -12,4 +12,13 @@
 
 ## Github Stats  
 <!-- GitHub数据统计 -->
-<img src="https://github-readme-stats.vercel.app/api?username=linkxzhou&show_icons=true&count_private=true&theme=vue-dark" />
+<div align="center">
+    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/linkxzhou/linkxzhou/blob/master/tools/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/linkxzhou/linkxzhou/blob/master/tools/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+        <img src="https://github.com/linkxzhou/linkxzhou/blob/master/tools/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+        <img src="https://github.com/linkxzhou/linkxzhou/blob/master/tools/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    </a>
+</div>

@@ -93,7 +93,7 @@ async def main() -> None:
 
     user = os.getenv("GITHUB_ACTOR")
     if user is None:
-        raise RuntimeError("Environment variable GITHUB_ACTOR must be set.")
+        user = "linkxzhou"
 
     exclude_repos = os.getenv("EXCLUDED")
     excluded_repos = (
